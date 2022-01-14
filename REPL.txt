@@ -1,0 +1,14 @@
+C:\Users\user>node
+Welcome to Node.js v16.13.1.
+Type ".help" for more information.
+> const nama = 'Zaky'
+undefined
+> const umur = 21
+undefined
+> const Hallo=(nama,umur) => {
+... console.log(`Nama: ${nama}, umur: ${umur} tahun`)}
+undefined
+> Hallo(nama,umur)
+Nama: Zaky, umur: 21 tahun
+undefined
+>
